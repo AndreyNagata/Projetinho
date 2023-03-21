@@ -82,6 +82,24 @@ nav {
   left: -100%;
 
 }
-.sopa {
+.sopa img{
   height: 300px;
+  border-bottom: solid #ec5114;
+}
+.sopa{
+  height: 300px;
+  width: 445px;
+}
+.texto-sopa{
+  position: relative;
+  bottom: 70px;
+  color: #fff;
+}
+.texto-sopa h2{
+  font-weight: 500;
+  font-size: 20px;
+  width: 300px;
+}
+.texto-sopa p{
+font-weight: 10;
 }
